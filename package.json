@@ -1,0 +1,24 @@
+{
+  "name": "judo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artiik/judo-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artiik/judo-app/issues"
+  },
+  "homepage": "https://github.com/Artiik/judo-app#readme",
+  "devDependencies": {
+    "babel-loader": "^6.2.5",
+    "http-server": "^0.9.0",
+    "webpack": "^1.13.2"
+  }
+}
